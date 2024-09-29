@@ -1,0 +1,3 @@
+const template = "<style>\r\n  body,html{\r\n    padding: 0 !important;\r\n    margin: 0 !important;\r\n  }\r\n    .content{\r\n      width: 100%;\r\n      height: 100vh;\r\n      background-color: black;\r\n      display: flex;\r\n      align-items: center;\r\n      justify-content: center;\r\n      padding: 0 !important;\r\n      margin: 0 !important;\r\n    }\r\n    .content img{\r\n      width: 100px;\r\n      height: 100px;\r\n    }\r\n    </style>\r\n    \r\n    <div class=\"content\">\r\n      <img src=\"/images/dashboard/on_connection.gif\" alt=\"\">\r\n      </div>";
+
+export { template };

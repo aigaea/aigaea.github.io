@@ -1,0 +1,1 @@
+import{G as a}from"./request.1e894d31.js";const n=()=>a("/api/earn/info"),s=(t,e)=>a(`/api/earn/daily-statistic?start=${t}&end=${e}`),o=(t,e,r)=>a(`/api/network/device-networks?page=${t}&limit=${e}&active=${r}`);export{s as a,o as d,n as e};

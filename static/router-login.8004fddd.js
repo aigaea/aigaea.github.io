@@ -1,0 +1,1 @@
+import{aN as e,z as o,M as i}from"./entry.f105df37.js";const s=e((t,a)=>{o();const r=document.querySelector(".body-container");if(r&&r.scrollTo({top:0}),!a.path.startsWith("/trainingTickets")&&(t.path==="/dashboard"||t.path==="/dashboard/"))return i("/")});export{s as default};

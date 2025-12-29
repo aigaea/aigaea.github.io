@@ -1,0 +1,1 @@
+import{d as t,u as o,n,o as a,c,b as s,e as _}from"./CikISgv-.js";const d=t({__name:"default",setup(u){return o().matched.length||n("/"),(m,p)=>{const e=_;return a(),c("div",null,[s(e)])}}});export{d as default};

@@ -1,0 +1,1 @@
+.animate-halo{animation:ping 2s cubic-bezier(0,0,.2,1) infinite;background-color:#4ade80}@keyframes ping{75%,to{opacity:0;transform:scale(2)}}

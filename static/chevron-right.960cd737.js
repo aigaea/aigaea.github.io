@@ -1,0 +1,7 @@
+const _0x21ca3d=_0x3c25;function _0x3c25(_0x396bd1,_0x4a6ebc){_0x396bd1=_0x396bd1-0x19b;const _0x407863=_0x4078();let _0x3c2588=_0x407863[_0x396bd1];return _0x3c2588;}(function(_0x553939,_0x4a5475){const _0x544101=_0x3c25,_0x50b39e=_0x553939();while(!![]){try{const _0x5544ec=-parseInt(_0x544101(0x19d))/0x1+parseInt(_0x544101(0x1a3))/0x2*(parseInt(_0x544101(0x19e))/0x3)+parseInt(_0x544101(0x1a1))/0x4+-parseInt(_0x544101(0x19b))/0x5+parseInt(_0x544101(0x1a2))/0x6+-parseInt(_0x544101(0x19f))/0x7+parseInt(_0x544101(0x1a4))/0x8*(parseInt(_0x544101(0x1a0))/0x9);if(_0x5544ec===_0x4a5475)break;else _0x50b39e['push'](_0x50b39e['shift']());}catch(_0x21de01){_0x50b39e['push'](_0x50b39e['shift']());}}}(_0x4078,0xc23f7));import{c as _0x9557d0}from'./createLucideIcon.1b14960e.js';/**
+ * @license lucide-vue-next v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const h=_0x9557d0('chevron-right',[['path',{'d':'m9\x2018\x206-6-6-6','key':_0x21ca3d(0x19c)}]]);function _0x4078(){const _0x2a9944=['399201oeGsIG','3416847vBzPyG','1200073FDvJdS','630alBCfi','1090320lAqvsl','4236576PURKlt','2HqVQLM','56176MesBCR','6214430VDvnAz','mthhwq'];_0x4078=function(){return _0x2a9944;};return _0x4078();}export{h as C};
